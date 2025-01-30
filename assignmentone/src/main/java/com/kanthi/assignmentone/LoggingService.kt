@@ -1,4 +1,4 @@
-package com.kanthi.courseassignment
+package com.kanthi.assignmentone
 
 import android.app.Service
 import android.content.Intent

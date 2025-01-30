@@ -1,0 +1,10 @@
+# Ignore Gradle directories and files
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Ignore IDEA-specific files and folders
+.idea/
+
+# Ignore Gradle wrapper scripts
+gradlew
+gradlew.bat
