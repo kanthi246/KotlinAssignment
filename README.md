@@ -29,7 +29,7 @@ The **Counter App** demonstrates the usage of:
 ## Course Structure 📚
 
 - **Week 1:** Counter App with Service
-- **Week 2:** [Task Name or Description]
+- **Week 2:** Get the verified badge to the commits
 - More tasks to be added as the course progresses. 🛠️
 
 ---
